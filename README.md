@@ -10,16 +10,19 @@ Run it with any Java IDE
 
 ## Game Screenshots
 
-Home page
+### Home page
+
 ![alt text](https://github.com/chenhuiyeh/feed-me/blob/master/readme-img/game-home-page.png)
 
-Instructions page
+### Instructions page
+
 ![alt text](https://github.com/chenhuiyeh/feed-me/blob/master/readme-img/instructions-page.png)
 
-Game 
+### Game 
+
 ![alt text](https://github.com/chenhuiyeh/feed-me/blob/master/readme-img/game-play.png)
 
-Game over
+### Game over
 ![alt text](https://github.com/chenhuiyeh/feed-me/blob/master/readme-img/game-over.png)
 
 ## Author
