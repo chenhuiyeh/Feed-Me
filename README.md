@@ -22,6 +22,10 @@ Run it with any Java IDE
 
 ![alt text](https://github.com/chenhuiyeh/feed-me/blob/master/readme-img/game-play.png)
 
+### Pause Game
+
+![alt text](https://github.com/chenhuiyeh/feed-me/blob/master/readme-img/pause.png)
+
 ### Game over
 ![alt text](https://github.com/chenhuiyeh/feed-me/blob/master/readme-img/game-over.png)
 
